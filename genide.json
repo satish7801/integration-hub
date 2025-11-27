@@ -1,0 +1,25 @@
+{
+  "projectName": "Integration Hub",
+  "description": "A web application for seamlessly managing and displaying various system integrations with detailed configuration guides and a pixel-perfect user interface.",
+  "functionalities": [
+    "Display a categorized list of available integrations",
+    "Allow users to expand and collapse integration categories to view details",
+    "Provide a search functionality to quickly find specific integrations",
+    "Present detailed, step-by-step setup instructions for each integration",
+    "Implement core navigation elements for different sections of the application"
+  ],
+  "colorTheme": {
+    "primary": "#007AFF",
+    "background": "#FFFFFF",
+    "accent": "#FF3B30"
+  },
+  "techStack": [
+    "Next.js",
+    "React",
+    "Tailwind CSS",
+    "shadcn/ui",
+    "Genkit",
+    "Firebase"
+  ],
+  "status": "complete"
+}
